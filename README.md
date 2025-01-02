@@ -1,4 +1,4 @@
-# Login, Registration & Logout Web App .
+# Login, Registration & Logout Web App 
 
 Frontend technologies used: HTML, CSS.
 
